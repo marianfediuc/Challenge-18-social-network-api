@@ -1,6 +1,6 @@
 // import the Sequelize constructor from the library
 const Sequelize = require('sequelize');
-var mongoose = require(mongoose);
+const mongoose = require(mongoose);
 
 require('dotenv').config();
 
